@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3371633 */
+  src: url('iconfont.woff2?t=1651470788029') format('woff2'),
+       url('iconfont.woff?t=1651470788029') format('woff'),
+       url('iconfont.ttf?t=1651470788029') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-changjingguanli:before {
+  content: "\eb61";
+}
+
+.icon-wodetuandui:before {
+  content: "\e6a0";
+}
+
+.icon-bulbidealight:before {
+  content: "\e614";
+}
+
+.icon-bulbideapeople:before {
+  content: "\e615";
+}
+
+.icon-tuandui:before {
+  content: "\e604";
+}
+
+.icon-dizhi:before {
+  content: "\e652";
+}
+
+.icon-promise:before {
+  content: "\e628";
+}
+
+.icon-factory:before {
+  content: "\e646";
+}
+
+.icon-weixin:before {
+  content: "\e600";
+}
+
+.icon-phone:before {
+  content: "\e8be";
+}
+
+.icon-QQ:before {
+  content: "\e887";
+}
+
+.icon-QQ-active-copy:before {
+  content: "\e8bf";
+}
+
+.icon-phone-active-copy:before {
+  content: "\e8c0";
+}
+
+.icon-weixin-active-copy:before {
+  content: "\e8c1";
+}
+
